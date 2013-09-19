@@ -41,6 +41,10 @@ def newsocialifecom():
         "A really usefull function, it does the hard job for you and prints the whole source code"
         print(open(__file__).read());
 
+def ankitpanda():
+    """A function that does nothing, nothing at all!"""
+    pass
+
 def nerdingoff():
     """
     Prints an ASCII version of the personal logo of nerdingoff
